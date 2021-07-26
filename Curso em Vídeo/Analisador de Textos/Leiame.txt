@@ -1,0 +1,8 @@
+Analisador de Textos:
+Faça um programa que leia um nome completo e mostre:
+-O nome completo em minúsculo
+-Em maiúsculo
+-Quantas letras tem o nome completo
+-Quantas letras tem o primeiro nome.
+
+Obs: No código-fonte foi utilizado alguns padrões de cores devido ao treino que estava realizando com esses tipos de funções.
