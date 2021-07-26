@@ -1,0 +1,2 @@
+Identificador de Anagramas:
+Faça um programa que leia duas strings e mostre se as duas são anagramas.

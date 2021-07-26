@@ -1,0 +1,4 @@
+Removendo Posição da String:
+Faça um programa que leia uma string qualquer e uma posição,  em seguida mostre a string sem o conteúdo/caractere pertencente à posição.
+
+Obs: para melhor entendimento, sugiro a execução do código-fonte.
