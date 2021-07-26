@@ -1,0 +1,2 @@
+Número primo:
+Faça um programa que leia um número e diga se ele é primo ou não.
