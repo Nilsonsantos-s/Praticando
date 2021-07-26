@@ -1,0 +1,8 @@
+nome = input('\033[1;31mDigite seu nome completo: ')
+print('\033[1;32mO nome em maiúsculo fica: \033[4m{}\033[m'.format(nome.upper()))
+print('\033[1;33mO nome em minúsculo fica: \033[4m{}\033[m'.format(nome.lower()))
+modificado = nome.replace(' ', '')
+primeironome = nome.split()
+contando = len(primeironome[0])
+print('\033[1;34mO nome completo tem {} letras.'.format(len(modificado)))
+print('\033[1;35mO primeiro nome tem {} letras.'.format(contando))
