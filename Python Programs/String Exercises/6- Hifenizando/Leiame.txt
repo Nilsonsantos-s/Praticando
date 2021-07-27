@@ -1,0 +1,2 @@
+Hifenizando:
+Faça um programa que leia uma string e mostre na tela a string com os espaços substituídos por hifens.

@@ -1,0 +1,2 @@
+Length na Raça:
+Faça um programa que leia uma string e calcule o length (tamanho) de uma string sem utilizar funções da biblioteca.
