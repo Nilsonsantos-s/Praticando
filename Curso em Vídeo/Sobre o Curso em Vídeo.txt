@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 É um canal do youtube que disponibiliza cursos gratuitos da área de tecnologia.
 
+=======
+É um canal no youtube que disponibiliza cursos gratuitos na área de tecnologia.
+
+>>>>>>> 3fc1803d0a41e4cea455d744f2c17df1a6798f1b
 Link: https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
