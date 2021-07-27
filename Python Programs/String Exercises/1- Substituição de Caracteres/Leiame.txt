@@ -1,0 +1,2 @@
+Substituição de Caracteres:
+Faça um programa que leia uma string qualquer e substitua o caractere 'a' minúsculo ou maiúsculo pelo caractere especial '$'.
