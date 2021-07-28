@@ -1,0 +1,2 @@
+Removendo Posições Ímpares:
+Faça um programa que leia uma string e remova o conteúdo da string em posições ímpares, depois mostre o resultado na tela.
