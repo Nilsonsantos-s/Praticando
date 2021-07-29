@@ -1,0 +1,6 @@
+string = input('Digite uma string qualquer: ')
+tamanho = len(string)
+lista = string.split()
+tamanholista = len(lista)
+print('Número de palavras: {}'.format(tamanholista))
+print('Número de caracteres: {}'.format(tamanho))

@@ -1,0 +1,2 @@
+Calculadora String:
+Faça um programa que leia uma string e mostre quantas palavras e caracteres aquela string tem.
