@@ -1,0 +1,2 @@
+Detector de Pangramas:
+Faça um programa que leia uma string e detecte se ela é um pangrama ou não. (Um pangrama é uma frase em que são usadas todas as letras do alfabeto de determinada língua.)

@@ -1,0 +1,6 @@
+Organizando Hifens:
+Faça um programa que leia uma frase com palavras compostas e mostre a frase em ordem alfabética.
+Obs:
+-A frase deve conter palavras compostas
+-A frase deve conter hifens
+Para mais detalhes do funcionamento, sugiro a execução do programa.
