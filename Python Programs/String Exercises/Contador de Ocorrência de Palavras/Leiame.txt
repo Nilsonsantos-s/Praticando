@@ -1,0 +1,2 @@
+Contador de Ocorrência de Palavras:
+Faça um programa que leia uma frase qualquer e leia uma palavra e mostre quantas vezes essa palavra está contida na frase.

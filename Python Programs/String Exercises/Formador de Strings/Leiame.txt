@@ -1,0 +1,2 @@
+Formador de Strings:
+Faça um programa que leia uma string com pelo menos 4 caracteres e forme uma nova string com os dois caracteres iniciais e os 2 últimos caracteres da string.

@@ -1,0 +1,2 @@
+Calculadora de Dígitos e Caracteres:
+Faça um programa que leia uma string e conte o número de dígitos e caracteres.
