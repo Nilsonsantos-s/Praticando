@@ -1,0 +1,2 @@
+Identificador de Substring:
+Faça um programa que leia uma string e uma substring e mostre se a substring está presente ou não na string.
