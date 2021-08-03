@@ -1,0 +1,6 @@
+Faça um programa que reproduza o seguinte padrão:
+5 5 5 5 5
+5 5 5 5
+5 5 5
+5 5
+5
