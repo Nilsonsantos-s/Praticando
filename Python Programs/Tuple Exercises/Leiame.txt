@@ -1,0 +1,2 @@
+Selecionando Item:
+Faça um programa com uma tupla que possui todos os algarismos, exceto o zero, e leia uma posição de 0 a 8 mostrando no final qual foi o algarismo selecionado.
