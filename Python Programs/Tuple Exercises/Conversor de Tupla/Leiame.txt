@@ -1,0 +1,2 @@
+Conversor de Tupla:
+Crie um programa que converta uma tupla qualquer em uma string.
