@@ -1,0 +1,2 @@
+Transformando em Variável:
+Faça um programa particione a tupla em um conjunto de variáveis.
