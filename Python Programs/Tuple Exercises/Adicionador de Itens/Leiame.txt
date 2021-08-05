@@ -1,0 +1,6 @@
+Adicionador de Item:
+Crie um programa que adicione itens em uma tupla.
+-O programa não deve parar até o usuário mencionar que não quer adicionar mais itens.
+-Se o item adicionado for um número, o número deverá ser tratado como int.
+
+OBS: Para melhor entendimento do funcionamento, sugiro a execução do programa.
