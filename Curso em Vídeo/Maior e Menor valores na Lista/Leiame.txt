@@ -1,0 +1,6 @@
+Maior e Menor valores na Lista:
+Faça um programa que leia 5 valores numéricos e guarde-os em uma lista.
+No final, mostre qual foi o maior e menor valor digitado e as suas respectivas posições na lista.
+-Se houver um número maior ou menor que seja repetido, também deverá mostrar a posição destes.
+
+OBS: Para melhor compreensão do programa, sugiro a execução do código-fonte.
