@@ -1,0 +1,6 @@
+Valores únicos em uma Lista:
+Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista.
+-O programa deverá perguntar se o usuário quer ou não continuar a adicionar valores.
+-Se o usuário digitar qualquer resposta que não seja sim ou não, o programa deverá retornar uma opção inválida e o usuário terá que digitar novamente.
+-Caso o número já exista dentro da lista, ele não será adicionado.
+No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
