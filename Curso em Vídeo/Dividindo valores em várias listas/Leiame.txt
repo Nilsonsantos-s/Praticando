@@ -1,0 +1,7 @@
+Dividindo valores em várias listas:
+Crie um programa que vai ler vários números e colocá-los em uma lista.
+-O usuário deverá responder se quer ou não continuar a adicionar números.
+-Se a resposta do usuário for diferente de sim ou não, o programa deverá mostrar resposta inválida.
+
+Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente.
+Ao final, mostre o conteúdo das três listas geradas.
