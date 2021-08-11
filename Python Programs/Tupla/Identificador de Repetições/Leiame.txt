@@ -1,0 +1,2 @@
+Identificador de Repetições:
+Faça um programa que encontre itens repetidos de uma tupla.
