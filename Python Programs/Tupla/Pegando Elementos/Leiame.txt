@@ -1,0 +1,2 @@
+Pegando Elementos:
+Faça um programa que mostre qual é o quarto elemento de uma tupla da esquerda para direita e o quarto elemento da direita para a esquerda.
