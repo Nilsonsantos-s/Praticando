@@ -1,0 +1,2 @@
+Removedor de Item:
+Faça um programa que exclua um item de uma tupla.
