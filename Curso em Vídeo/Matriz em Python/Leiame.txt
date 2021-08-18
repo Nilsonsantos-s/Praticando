@@ -1,0 +1,7 @@
+Matriz em Python:
+Crie um programa que crie uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado.
+No final, mostre a matriz na tela, com a formatação correta.
+
+OBS: Para melhor compreensão, sugiro a execução do código-fonte.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=EGmlFdwD4C4&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=107
