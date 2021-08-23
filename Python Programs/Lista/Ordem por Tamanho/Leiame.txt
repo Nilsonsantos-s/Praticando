@@ -1,0 +1,2 @@
+Ordem por Tamanho:
+Faça um programa que crie uma lista com os itens ditos pelo usuário e a ordene de acordo com o tamanho dos elementos.
