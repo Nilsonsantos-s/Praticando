@@ -1,0 +1,2 @@
+Identificando a Versão:
+Faça um programa que mostre a versão do Python que você está usando e também suas informações.
