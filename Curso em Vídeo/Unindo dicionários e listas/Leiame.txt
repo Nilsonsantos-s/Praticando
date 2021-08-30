@@ -1,0 +1,11 @@
+Unindo dicionários e listas:
+Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados
+de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+A)Quantas pessoas foram cadastradas
+B)A média de idade do grupo
+C)Uma lista com todas as mulheres
+D)Uma lista com todas as pessoas com idade acima da média
+
+OBS: Para melhor compreensão, sugiro a execução do código-fonte.
+
+Link da resolução comentada do exercício: https://www.youtube.com/watch?v=ETnExBCFeps&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=116
