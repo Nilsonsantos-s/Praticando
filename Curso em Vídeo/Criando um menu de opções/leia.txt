@@ -1,1 +1,0 @@
-Crie um programa que leia dois números e mostre as opções de cálculos que podem ser feitos. O programa não deve parar até o usuário digitar a tecla 5.
