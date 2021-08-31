@@ -1,0 +1,8 @@
+Cadastro de Jogador de Futebol (Aprimorado):
+-É necessário ter feito o exercício "Cadastro de Jogador de Futebol"
+-Este é um exercício mais complexo
+-Teste o programa em seu Python
+-Você deve replicar a experiência do programa escrevendo seu próprio código.
+
+Link da resolução comentada:
+https://www.youtube.com/watch?v=mw1So0r317Y&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=117

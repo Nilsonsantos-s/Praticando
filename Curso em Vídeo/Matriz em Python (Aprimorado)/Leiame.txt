@@ -1,4 +1,4 @@
-Matriz em Python (Aprimoramento):
+Matriz em Python (Aprimorado):
 Aprimore o desafio "Matriz em Python", mostrando no final:
 -A soma de todos os valores pares digitados.
 -A soma dos valores da terceira coluna.
