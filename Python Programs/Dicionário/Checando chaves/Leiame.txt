@@ -1,0 +1,6 @@
+Checando chaves:
+Faça um programa que gere 5 chaves e seus 5 valores com números aleatórios de 1 a 9.
+-O programa lerá qual número (chave) o usuário deseja verificar se está contida no dicionário.
+-Em seguida, ele deve mostrar se a chave existe ou não no dicionário.
+-Se a chave existe, o programa também deverá mostrar seu valor.
+-No final, imprima o resultado do dicionário, suas chaves e seus itens.
