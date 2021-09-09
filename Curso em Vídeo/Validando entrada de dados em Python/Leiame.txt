@@ -1,0 +1,10 @@
+Validando entrada de dados em Python:
+Crie um programa que tenha a função leiaInt(), que vai funcionar
+de forma semelhante à função input() do Python, só que fazendo
+a validação para aceitar apenas um valor numérico.
+Ex:
+n = leiaInt('Digite um n')
+
+OBS: Para melhor compreensão, sugiro a execução do código-fonte.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=VrQmMbPpbf0&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=128
