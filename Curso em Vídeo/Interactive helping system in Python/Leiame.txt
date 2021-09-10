@@ -1,0 +1,9 @@
+Interactive helping system in Python:
+Faça um mini-sistema que utilize o Interactive Help do Python.
+O usuário vai digitar o comando e o manual vai aparecer.
+Quando o usuário digitar a palavra 'FIM', o programa se encerrará.
+-Use cores.
+
+OBS: Para melhor compreensão, sugiro a execução do código-fonte.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=BMKYnZoxy88&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=130
