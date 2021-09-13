@@ -1,0 +1,10 @@
+Exercitando módulos em Python:
+Crie um módulo chamado moeda.py que tenha as funções
+incorporadas aumentar(), diminuir (), dobro() e metade().
+
+Faça também um programa que importe esse módulo e use 
+algumas dessas funções.
+
+OBS: Para melhor compreensão, sugiro a execução do código-fonte.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=y8pI8YBphQI&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=132
