@@ -1,0 +1,10 @@
+Exercitando módulos em Python (Aprimorado)
+OBS: Para fazer este exercício é necessário ter feito 
+o exercício "Exercitando módulos em Python".
+
+Adapte o código do desafio "Exercitando módulos em Python", criando
+uma função adicional chamada moeda() que consiga mostrar os valores
+com um valor monetário formatado.
+Ex.: Em vez de imprimir 100, mostrar na tela "R$100".
+
+Link da resolução comentada: https://www.youtube.com/watch?v=KtRkGEeUdqE&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=133
