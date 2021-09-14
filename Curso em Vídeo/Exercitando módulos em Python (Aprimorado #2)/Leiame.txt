@@ -1,0 +1,10 @@
+Exercitando módulos em Python (Aprimorado #2)
+OBS: Para fazer este exercício é necessário ter feito o
+exercício "Exercitando módulos em Python (Aprimorado)"
+
+Modifique as funções que foram criadas no desafio 107 para que elas
+aceitem um parâmetro a mais, informando se o valor retornado por elas 
+vai ser ou não formatado pela função moeda() desenvolvida no desafio
+"Exercitando módulos em Python (Aprimorado)"
+
+Link da resolução comentada: https://www.youtube.com/watch?v=Y0zNYTHoGhQ&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=134
