@@ -1,0 +1,9 @@
+Exercitando módulos em Python (Aprimorado #3)
+OBS: Para fazer este exercício é necessário ter feito
+o exercício "Exercitando módulos em Python (Aprimorado #2)"
+
+Adicione ao módulo moeda.py criado nos desafios anteriores da série, uma
+função chamada resumo(), que mostra na tela algumas informações geradas
+pelas funções que já temos no módulo criado até aqui.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=1Ks218WINT8&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=135
