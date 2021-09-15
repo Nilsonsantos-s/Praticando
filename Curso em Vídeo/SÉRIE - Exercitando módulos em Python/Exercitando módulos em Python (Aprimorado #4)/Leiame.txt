@@ -1,0 +1,9 @@
+Exercitando módulos em Python (Aprimorado #4)
+OBS: É necessário ter feito o exercício "Exercitando módulos em Python (Aprimorado #3)"
+
+Crie um pacote chamado utilidadesCeV que tenha dois módulos
+internos chamados moeda e dado.
+Transfira todas as funções utilizadas no desafios da série para o primeiro pacote e
+mantenha tudo funcionando.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=uBQ0--sRFUI&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=136
