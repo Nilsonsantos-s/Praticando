@@ -1,0 +1,9 @@
+Exercitando módulos em Python (Aprimorado #5)
+OBS: É necessário ter feito o exercício "Exercitando módulos em Python (Aprimorado #4)"
+
+Dentro do pacote utilidadesCeV que criamos, temos um módulo chamado
+dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar
+como a função input(), mas com uma validação de dados para aceitar
+apenas valores que sejam monetários.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=6vADeY5_pMs&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=137
