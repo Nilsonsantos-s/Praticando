@@ -1,0 +1,6 @@
+Funções aprofundadas em Python:
+Reescreva a função leiaInt() que fizemos no desafio "Validando entrada de dados em Python",
+incluindo agora a possibilidade da digitação de um número de tipo inválido.
+Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=KowQ_UIMuI8&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=139
