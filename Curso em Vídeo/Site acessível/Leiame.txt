@@ -1,0 +1,5 @@
+Site acessível:
+Crie um código em Python que teste se o site www.pudim.com.br está acessível
+pelo computador usado.
+
+Link da resolução comentada: https://www.youtube.com/watch?v=8jAykqxIeqw&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=140
