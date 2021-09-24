@@ -1,0 +1,9 @@
+Classe Bola:
+Crie uma classe que modele uma bola:
+a. Atributos: Cor, circunferência, material
+b. Métodos: trocaCor e mostraCor
+
+É um exercício simples, para torná-lo mais complexo, sugiro:
+-Faça o usuário digitar os atributos da classe
+-Crie um menu com as opções "mostrar cor" e "trocar de cor"
+-Utilize tratamento de erros e exceções
