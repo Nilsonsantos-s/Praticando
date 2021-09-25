@@ -1,0 +1,9 @@
+Classe Quadrado:
+Crie uma classe que modele um quadrado:
+a. Atributos: Tamanho do lado
+b. Métodos: Mudar valor do Lado, Retornar valor do Lado e calcular Área
+
+É um exercício simples, sugiro torná-lo mais complexo com sua criatividade, ou então, sugiro:
+-Faça o usuário digitar os atributos da classe
+-Crie um menu com as opções
+-Utilize tratamento de erros e exceções
