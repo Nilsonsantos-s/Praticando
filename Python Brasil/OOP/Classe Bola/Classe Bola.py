@@ -51,15 +51,19 @@ def menu():
             print('------ Até logo! ------')
             break
 
-def checarString(str):
-    while str.isalpha() == False:
-        str = input('Digite somente caracteres: ')
+def checarString(x):
+    global str
+    while x.isalpha() == False:
+          x = input('Digite somente caracteres: ')
+    str = x
 
 #Programa Principal ---
 nome = input('Nome da bola: ')
 checarString(nome)
+nome = str
 cor = input('Cor: ')
 checarString(cor)
+cor = str
 while True:
     try:
         circun = int(input('Circunferência: '))
@@ -69,6 +73,7 @@ while True:
         break
 material = input('Material: ')
 checarString(material)
+material = str
 
 b1 = Bola(nome, cor, circun, material)
 menu()
