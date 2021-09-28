@@ -10,7 +10,7 @@ class Retângulo:
 
     def RetornarValores(self):
         try:
-            print(f'Lado A: {self.LadoA} \nLADO B: {self.LadoB}')
+            print(f'Comprimento: {self.LadoA} \nLargura: {self.LadoB}')
         except:
             print('ERRO! Problema na hora de retornar os valores!')
         finally:
@@ -39,14 +39,14 @@ def menu():
     if escolha == 1:
         while True:
             try:
-                loca = int(input('Lado A: '))
+                loca = int(input('Comprimento: '))
             except ValueError:
                 print('ERRO! Tipo inválido!')
             else:
                 break
         while True:
             try:
-                locb = int(input('Lado B: '))
+                locb = int(input('Largura: '))
             except ValueError:
                 print('ERRO! Tipo inválido!')
             else:
