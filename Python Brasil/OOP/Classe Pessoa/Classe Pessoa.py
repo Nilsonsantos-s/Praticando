@@ -1,3 +1,4 @@
+##Classe ---
 class Pessoa:
     def __init__(self, nome, idade, peso, altura):
         self.nome = nome
@@ -21,6 +22,7 @@ class Pessoa:
     def Crescer(self):
         self.altura += 0.5
 
+##Funções ---
 def menu():
     print('-'*40)
     print(f'{p1.nome:^38}')
@@ -73,6 +75,8 @@ def menu():
         print('Digite uma opção válida!')
         menu()
 
+
+##Programa principal ---
 nome = input('Nome: ')
 while nome.isalpha() == False:
     nome = input('O nome só pode conter letras: ')
