@@ -1,0 +1,7 @@
+Classe Pessoa:
+Crie uma classe que modele uma pessoa:
+a. Atributos: nome, idade, peso e altura
+b. Métodos: Envelhecer, engordar, emagrecer, crescer. Obs: Por padrão, a cada ano
+que nossa pessoa envelhece, sendo a idade menor que 21 anos, ela deve crescer 0.5cm.
+
+OBS: Para melhor compreensão de como realizar o exercício, sugiro a execução do código-fonte.
