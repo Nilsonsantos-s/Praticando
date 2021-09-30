@@ -1,0 +1,6 @@
+Classe Conta Corrente:
+Crie uma classe que implemente uma conta corrente:
+a. Atributos: número da conta, nome do correntista e saldo
+b. Métodos: alterarNome, depósito e saque.
+
+OBS: Para melhor compreensão de como realizar o exercício, sugiro a execução do código-fonte.
