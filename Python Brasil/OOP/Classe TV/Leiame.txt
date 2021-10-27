@@ -1,0 +1,7 @@
+Classe TV:
+Crie uma classe que simule uma TV:
+O usuário deve ser capaz de informar o número do canal e aumentar ou diminuir o volume.
+Certifique-se de que o número do canal e o nível do volume permaneçam dentro de faixas
+válidas.
+
+OBS: Para melhor compreensão de como realizar o exercício, sugiro a execução do código-fonte.
