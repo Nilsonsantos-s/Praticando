@@ -1,5 +1,0 @@
-Clássico da Média:
-Faça um programa que leia duas notas e mostre a média.
--Se a média for menor que 5, o aluno está reprovado.
--Caso seja maior ou igual a 5 e menor que 7 o aluno está de recuperação.
--Se for maior ou igual a 7 ele está aprovado.

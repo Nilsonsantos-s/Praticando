@@ -1,0 +1,14 @@
+Pelo calendário gregoriano, instituído em 1585 pelo Papa Gregório XIII, os anos bissextos
+são aqueles cujos valores são divisíveis por 4, exceto os anos que são divisíveis por 100 e não
+por 400.
+Sabendo disso, faça um programa que imprima na tela todos os anos bissextos contidos em
+um intervalo informado pelo usuário e o número de anos bissextos desse mesmo intervalo.
+
+Exemplo:
+Entrada =
+1980
+2000
+
+Saída =
+1980 1984 1988 1992 1996 2000
+6
