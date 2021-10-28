@@ -1,0 +1,7 @@
+Classe Bichinho Virtual:
+-Atributos: Nome, Fome, Saúde e Idade 
+-Métodos: Alterar Nome, Fome, Saúde e Idade; Retornar Nome, Fome, Saúde e Idade 
+
+*Existe mais uma informação que devemos levar em consideração, o Humor do nosso tamagushi, este humor é uma combinação entre os atributos Fome e Saúde, ou seja, um campo calculado, então não devemos criar um atributo para armazenar esta informação por que ela pode ser calculada a qualquer momento.
+
+OBS: Para melhor compreensão de como realizar o exercício, sugiro a execução do código-fonte.
