@@ -1,0 +1,7 @@
+Ranking de Jogadores:
+Faça um programa que dado a entrada dos pontos que cada jogador fez no total
+(as entradas são encerrados por -1), imprima na tela a pontuação do primeiro, segundo e 
+terceiro lugar. caso não haja ninguém para ocupar aquela posição, imprima a mensagem 
+pré-definida "NÃO HÁ JOGADOR" para cada posição que faltar. Não há critério de desempate,
+então, caso haja empate, um ocupará a posição seguinte do outro.
+
