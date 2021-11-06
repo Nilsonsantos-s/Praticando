@@ -1,0 +1,2 @@
+Classe Lista:
+Crie um programa que adicione, remova e mostre itens de uma lista.
