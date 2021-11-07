@@ -1,0 +1,3 @@
+Construção de Dicionário: 
+Crie um programa utilizando funções que construa um dicionário.
+-Funções: adicionarChave, adicionarItem, mostrarDados.
