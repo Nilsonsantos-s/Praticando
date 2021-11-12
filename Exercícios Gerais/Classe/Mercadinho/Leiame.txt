@@ -1,0 +1,13 @@
+Mercadinho:
+Faça um programa que tenha duas classes: 
+Classe CarrinhoDeCompras:
+-Atributo: self.produtos
+-Métodos: inserir_produto, lista_produto, soma_total
+
+Classe Produto:
+-Atributos: nome, valor
+
+Faça com que seja possível adicionar produtos no carrinho, mostrar os produtos e somar o total
+dos preços dos produtos no carrinho.
+
+OBS: Para aumentar o nível de dificuldade e interação, crie um menu interativo onde o usuário possa realizar os métodos da classe CarrinhoDeCompras.
