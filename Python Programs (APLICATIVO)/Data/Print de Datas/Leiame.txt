@@ -1,0 +1,12 @@
+Print de Datas:
+
+Utilizando a biblioteca datetime, escreva um programa que mostre as datas em várias formas.
+
+Exemplo:
+Dia atual: 13/11/2021 18:50:03.678119
+Ano: 2021
+Mês: November
+Dia: 13
+Dia da semana: Sábado
+Dias do ano: 317
+Quantas semanas do ano: 18
