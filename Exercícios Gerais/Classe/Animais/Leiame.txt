@@ -1,0 +1,9 @@
+Animais:
+-Crie uma classe Animal e crie as classes Mamífero, Réptil, Peixe e Ave que herdarão
+a classe Animal. 
+-Crie atributos comuns a todos os animais.
+-Nas classes herdadas, crie atributos únicos a elas.
+-Crie um menu onde o usuário possa criar um animal, selecioná-lo, e mostrar os atributos
+do animal selecionado.
+
+OBS: Sugiro a execução do código-fonte para ter uma ideia de como o programa deve ser feito.
