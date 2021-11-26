@@ -1,0 +1,19 @@
+Gravador de Entradas:
+-Crie um programa que tenha as seguintes labels:
+Nome, Telefone e Observação com suas respectivas Entradas.
+-Crie um botão Gravar.
+-Faça com que o usuário digite as entradas e clique em Gravar que
+vai resultar nos outputs das entradas.
+-Os Outputs devem ficar salvos em um arquivo txt.
+
+EXEMPLO DA INTERFACE:
+
+Nome -LABEL-
+-ENTRADA-
+
+Telefone -LABEL-
+-ENTRADA-
+
+Observação -LABEL-
+-ENTRADA-
+
