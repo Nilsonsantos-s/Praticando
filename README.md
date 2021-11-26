@@ -1,4 +1,4 @@
-# Praticando-Python
+# Praticando
 ### Sobre
 ##### Repositório de exercícios que pratico.
 ___
