@@ -1,0 +1,14 @@
+Iniciando com Imagens:
+Crie um HTML que  tenha um cabeçário e três parágrafos. 
+Para cada parágrafo, adicione uma imagem.
+
+Para pegar imagens, utilize a plataforma pexels que
+disponibiliza imagens gratuitas.
+Link: https://www.pexels.com/pt-br/
+
+-Após o primeiro parágrafo coloque uma imagem
+que esteja localizada na mesma pasta do arquivo
+HTML.
+-Após o segundo, uma imagem contida em uma sub-pasta.
+-Após o terceiro, uma imagem através de um link.
+-Utilize o atributo "alt" escrevendo uma descrição das imagens.
