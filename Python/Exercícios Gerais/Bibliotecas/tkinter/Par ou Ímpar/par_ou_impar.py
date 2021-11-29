@@ -11,8 +11,8 @@ app.configure(bg='brown')
 def par_ou_impar():
     """
     :return: Recebe a entrada.
-             Se resto do número divido por 2 for 0, ele vai criar a Label com o texto "Par".
-             Do contrário, ele cria a Label com o texto "Ímpar".
+             Se resto do número divido por 2 for 0, a função vai configurar "Par" na variável resultado.
+             Do contrário, vai configurar "Ímpar".
     """
     numero = int(entrada.get())
     if numero % 2 == 0:
