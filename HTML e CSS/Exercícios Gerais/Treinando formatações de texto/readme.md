@@ -4,13 +4,13 @@ Escreva um texto que tenha:
 
 -Um título nível 1, contendo dois sub-títulos nível 2
 
--Cada sub-título nível dois, terá dois sub-títulos nível 3.
+-Cada sub-título nível dois terá dois sub-títulos nível 3.
 
 -Adicione um parágrafo após cada título e preencha-o com "lorem"
 
 
 
-Após isso, para cada parágrafo, tenha o texto:
+Após isso, cada texto de cada parágrafo deverá preencher uma dessas características:
 
 -Em negrito
 
