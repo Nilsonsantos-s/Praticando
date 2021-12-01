@@ -1,5 +1,5 @@
 """
-asdasd
+Selecionando Roupas
 """
 from tkinter import Label, Tk, StringVar, Radiobutton, Button
 app = Tk()
@@ -12,7 +12,7 @@ Label(text='Cores').grid(row=1, column=2)
 
 def imprimir_resultado():
     """
-    :return:
+    :return: Configura o valor da variável "vroupa" e "vcor" na variável "textolabel".
     """
     textolabel.set(vroupa.get() + ' ' + vcor.get())
 
