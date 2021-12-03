@@ -1,3 +1,0 @@
-Exercícios tirados do site Python Brasil
-
-Link: https://wiki.python.org.br/ExerciciosClasses
