@@ -7,11 +7,17 @@ Passos:
 SIMULANDO UMA SALA DE UMA ESCOLA
 
 1º - contar a quantidade de elementos total da população (quantidade de alunos)
+
 2º - definir o total da quantidade de elementos da amostra 
+
 3º - realizar a divisão x/y sendo 'x' o total de quantidade de elementos da amostra e 'y' a quantidade de elementos total da população. X/Y == Z
+
 4º - contar a quantidade de elementos total de alunos do sexo masculino = QM
+
 5º - contar a quantidade de elementos total de alunos do sexo feminino  = QF
+
 6º - QM* Z= quantidade de alunos do sexo masculino na amostra
+
 7º - QF*  Z= quantidade de alunos do sexo feminino na amostra
 
 Sabendo disso:
